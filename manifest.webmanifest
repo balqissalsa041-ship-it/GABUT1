@@ -1,0 +1,22 @@
+{
+  "name": "FlowScope Orderflow",
+  "short_name": "FlowScope",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#080d14",
+  "theme_color": "#080d14",
+  "description": "Mobile orderflow and liquidity visualization website",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
